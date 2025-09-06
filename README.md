@@ -69,11 +69,8 @@ The primary aim of this project is to build an efficient, serverless environment
 
 Route53 is a web service that can perform three functions domain registration, DNS routing, and health checking
 
-<img width="823" alt="post-apply-inegration-lambda" src="https://github.com/user-attachments/assets/6b37357f-afa2-4958-8f6b-d70994e2dd26" />
+<img width="823" alt="https://github.com/user-attachments/assets/6b37357f-afa2-4958-8f6b-d70994e2dd26](https://github.com/ziad3704/Serverless-Application-raffle/blob/d9793a7ed5b8150a5379d2ffb4350e45a5e35313/Screenshot%202025-09-06%20182712.png" />
 
-<img width="817" alt="get-draw-route-" src="https://github.com/user-attachments/assets/d913f89a-89cd-422d-84bf-5d92302d20aa" />
-
-<img width="621" alt="choose-lambdafn-count" src="https://github.com/user-attachments/assets/d43c20bd-ea6e-4887-9e05-498b1b520318" />
 
 **Hostedzone**
 
@@ -229,6 +226,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
