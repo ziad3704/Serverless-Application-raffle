@@ -59,7 +59,9 @@ The primary aim of this project is to build an efficient, serverless environment
 
 
   <img width="960" alt="logs-raffle-apply" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/0bf05884a005c91cc70af2d0ccc61237e60d5127/Screenshot%202025-09-06%20182406.png" />
-  <img width="960" alt="logs-raffle-apply" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/0bf05884a005c91cc70af2d0ccc61237e60d5127/Screenshot%202025-09-06%20182406.png" />
+
+  
+  <img width="960" alt="logs-raffle-apply" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/28cbfa3d52db57c5b4a962f6091a347160da3902/Screenshot%202025-09-06%20182438.png" />
   
   
 
@@ -227,6 +229,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
