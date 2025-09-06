@@ -134,15 +134,9 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 
 **Edit static website hosting**
 
-<img width="960" alt="into-static-hosting-inbucket" src="https://github.com/user-attachments/assets/3e8ef911-7a4f-4b96-b970-6cefc314f6a9" />
+<img width="960" alt="into-static-hosting-inbucket" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/bddc4da46b37c822165ec3c6808916550a7fffa1/Screenshot%202025-09-06%20195143.png" />
 
-
-<img width="925" alt="open-this-url-into-static" src="https://github.com/user-attachments/assets/8ee1abda-a0a1-47f0-8df1-543418a23230" />
-
-
-<img width="859" alt="pemm-ca-upload" src="https://github.com/user-attachments/assets/830fd0b7-d4b0-4d11-8c5e-95c957835bec" />
-
-**second create bucket with the same name**
+**public access**
 
 <img width="885" alt="second-create-bucket-same-name-devopshero link" src="https://github.com/user-attachments/assets/ac6ff4bb-d383-4f9b-98a2-970acccd3805" />
 
@@ -205,6 +199,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
