@@ -50,7 +50,7 @@ The primary aim of this project is to build an efficient, serverless environment
  - logs from lambda
 
  
-  <img width="817" alt="before-test" src="https://github.com/user-attachments/assets/ad9a9781-aadb-43fe-8d92-708acaef257a" />
+  <img width="817" alt="before-test" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/edc077d371a258b3513dfb411e6f6bdd209df6f6/Screenshot%202025-09-06%20182028.png" />
 
 
  # 3. CloudWatch
@@ -225,6 +225,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
