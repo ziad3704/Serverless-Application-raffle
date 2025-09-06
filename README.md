@@ -116,10 +116,10 @@ Route53 is a web service that can perform three functions domain registration, D
 <img width="968" alt="browser-after-certificate" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/4cb22a8a82fbcd4513e73c3102cff8d9550be3ee/Screenshot%202025-09-06%20192156.png" />
 
 
-<img width="175" alt="certificate-import-done" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/c7250053577dedc885da8d087efe3d5074fbca7e/Screenshot%202025-09-06%20192403.png" />
+<img width="980" alt="certificate-import-done" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/c7250053577dedc885da8d087efe3d5074fbca7e/Screenshot%202025-09-06%20192403.png" />
 
 
-<img width="958" alt="https://github.com/ziad3704/Serverless-Application-raffle/blob/b493c3bebda947d02dc4244e440b23d094a91e1a/Screenshot%202025-09-06%20192620.png" />
+<img width="958" alt="" src="" />
 
 # 7. Create S3 bucket
 
