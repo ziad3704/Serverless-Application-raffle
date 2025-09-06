@@ -127,20 +127,9 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 <img width="729" alt="add-policy-to-bucket" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/1f14597fd7af7fcd19710af9d84108df9a506010/Screenshot%202025-09-06%20195046.png" />
 
 
-**to change txt file to html, I change it from VScode! how? Thinking from the thoughts of terraform🔍**
-
-first, to link between aws and vscode by using the following code:
-
-```bash
-aws configure
-
-```
-then, wrote access key and secret access key,region and json to connect between each other
-
-<img width="767" alt="using-vscode-to-cp-txt-to-html" src="https://github.com/user-attachments/assets/d907a4ec-0f8c-4de0-8813-edf080a8c7ed" />
 
 
-<img width="956" alt="2-bucket-after-edit" src="https://github.com/user-attachments/assets/260aa72c-aa55-4f25-9974-6e01d1694bd6" />
+<img width="956" alt="2-bucket-after-edit" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/8d4fcdfbbd5132b2d8bf4a20af8ef4645db1e46c/Screenshot%202025-09-06%20195128.png" />
 
 
 **Edit static website hosting**
@@ -216,6 +205,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
