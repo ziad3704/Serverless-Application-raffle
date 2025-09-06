@@ -159,30 +159,31 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 
  **Apply to the raffle**
 
-<img width="959" alt="check-website-zzye.link link-only(apply)" src="https://github.com/user-attachments/assets/0dd102f6-2711-4d7c-ab6c-f0543e3e817d" />
+<img width="959" alt="check-website-zzye.link link-only(apply)" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/a7518b85d153c7ff8791134bc2154e73bd3d135f/Screenshot%202025-09-06%20201251.png" />
 
 ---
 
 **draw**
 
-<img width="960" alt="check-website-draw htmlll" src="https://github.com/user-attachments/assets/a49814e7-c983-4368-9941-ca679d2d50ff" />
+<img width="960" alt="check-website-draw htmlll" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/a7518b85d153c7ff8791134bc2154e73bd3d135f/Screenshot%202025-09-06%20201331.png" />
 
 ---
 
 
 add another fake person
 
-<img width="871" alt="add-another-fake-person" src="https://github.com/user-attachments/assets/eff26f4a-5478-401f-a024-10a6693e4d5e" />
+<img width="871" alt="add-another-fake-person" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/a7518b85d153c7ff8791134bc2154e73bd3d135f/Screenshot%202025-09-06%20201557.png" />
 
 ---
 
 # Finally Winners,
 
-<img width="944" alt="finally-winners!!" src="https://github.com/user-attachments/assets/cb6fd0d1-2298-4a55-b3b8-6f6c86f43685" />
+<img width="944" alt="finally-winners!!" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/a7518b85d153c7ff8791134bc2154e73bd3d135f/Screenshot%202025-09-06%20201639.png" />
 
 
 
 # **Done..!**
+
 
 
 
