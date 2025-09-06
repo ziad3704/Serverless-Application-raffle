@@ -1,4 +1,4 @@
-# Project Overview
+<img width="1525" height="704" alt="image" src="https://github.com/user-attachments/assets/1346e7ba-058a-4897-ba7b-6cec43f3b89c" /># Project Overview
 
 This Serverless Application project focuses on creating a scalable and secure API-based cloud infrastructure using AWS services. The architecture utilizes DynamoDB for database storage, AWS Lambda for serverless function execution, and API Gateway for managing API endpoints. Security and availability are prioritized through Route 53 for DNS management and ACM for SSL certification. The front end is hosted as a static website on S3, with CloudFront providing CDN support for improved performance and reliability.
 
@@ -149,22 +149,9 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 
 # 8. Create cloudfront
 
-<img width="959" alt="cloudfront-name-https" src="https://github.com/user-attachments/assets/20bcde53-bb7e-48b8-8659-ffcae4b68a3b" />
 
-
-<img width="959" alt="cloudfront-name-https" src="https://github.com/user-attachments/assets/64ab5e10-2dbb-4b78-9b13-5996f9f824a5" />
-
-**cname**
-
-<img width="928" alt="front-edit-settings-cname-and-certf" src="https://github.com/user-attachments/assets/f9107c48-6834-4b07-a38f-8fd32e0cbf98" />
-
-**copy domain name and test the website**
-
-<img width="945" alt="-front-cp-domain-name-and-testwebsite" src="https://github.com/user-attachments/assets/a0c33409-f274-4065-95d6-fae4b84a4808" />
-
-**WAF**
-
-<img width="819" alt="waf-front-choose-this" src="https://github.com/user-attachments/assets/8aadf396-6631-4f86-a904-a42f6dc13812" />
+<img width="819" alt="cloud_front" src="" />
+" />
 
 ----
 
@@ -196,6 +183,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
