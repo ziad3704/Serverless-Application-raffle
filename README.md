@@ -138,13 +138,13 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 
 **public access**
 
-<img width="885" alt="second-create-bucket-same-name-devopshero link" src="https://github.com/user-attachments/assets/ac6ff4bb-d383-4f9b-98a2-970acccd3805" />
+<img width="885" alt="second-create-bucket-same-name-devopshero link" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/a5f2f7fb9f60758973e29fa26e1feea3eebf1e4c/Screenshot%202025-09-06%20195352.png" />
 
 
 **added Trust to URL of S3(static website URL) and DNS to CORS in API Gateway**
 
 
-<img width="883" alt="edit-in-cors" src="https://github.com/user-attachments/assets/f05f2a3a-c526-479a-996b-00a5fda74b77" />
+
 
 
 <img width="818" alt="add-devopshero-to-cors" src="https://github.com/user-attachments/assets/d7923bde-04b9-4a2c-9768-23c25bc176dc" />
@@ -199,6 +199,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
