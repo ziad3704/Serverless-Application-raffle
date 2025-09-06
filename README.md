@@ -144,10 +144,7 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 **added Trust to URL of S3(static website URL) and DNS to CORS in API Gateway**
 
 
-
-
-
-<img width="818" alt="add-devopshero-to-cors" src="https://github.com/user-attachments/assets/d7923bde-04b9-4a2c-9768-23c25bc176dc" />
+<img width="818" alt="https://github.com/ziad3704/Serverless-Application-raffle/blob/c5d374de5603b256d51e576002982143833fa1fb/Screenshot%202025-09-06%20195453.png" />
 
 
 # 8. Create cloudfront
@@ -199,6 +196,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
