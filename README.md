@@ -110,7 +110,7 @@ Route53 is a web service that can perform three functions domain registration, D
 
 <img width="968" alt="browser-after-certificate" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/4cb22a8a82fbcd4513e73c3102cff8d9550be3ee/Screenshot%202025-09-06%20192156.png" />
 
-<img width="865" alt="create-certfi-devopshero link" src="(https://github.com/ziad3704/Serverless-Application-raffle/blob/b55e1fe483b556a1c6b45d71471611278fa03feb/Screenshot%202025-09-06%20192403.png"/>
+<img width="865" alt="create-certfi-devopshero link" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/b55e1fe483b556a1c6b45d71471611278fa03feb/Screenshot%202025-09-06%20192403.png"/>
 
 
 <img width="980" alt="certificate-import-done" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/c7250053577dedc885da8d087efe3d5074fbca7e/Screenshot%202025-09-06%20192403.png" />
@@ -216,6 +216,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
