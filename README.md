@@ -105,7 +105,7 @@ Route53 is a web service that can perform three functions domain registration, D
 
  ACM (AWS Certificate Manager) Handles the complexity of creating, storing, and renewing the Certificate Public/Private (SSL/TLS)
 
- <img width="846" alt="2-certifcate" src="https://github.com/user-attachments/assets/d07230b8-bde0-454a-9b35-828646f2ce5e" />
+ <img width="846" alt="2-certifcate" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/b9287912d9aeb7e9749d50696a0c0738c3412303/Screenshot%202025-09-06%20192051.png" />
  
 
  <img width="865" alt="create-certfi-devopshero link" src="https://github.com/user-attachments/assets/758bdce1-d567-4bde-8fe5-16f8b7c68202" />
@@ -226,6 +226,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
