@@ -74,7 +74,7 @@ Route53 is a web service that can perform three functions domain registration, D
 
 **Hostedzone**
 
-<img width="897" alt="create-new-recordwith-alias" src="https://github.com/user-attachments/assets/438ef3f4-be4e-4578-809c-75548b1e5ee6" />
+<img width="897" alt="https://github.com/user-attachments/assets/438ef3f4-be4e-4578-809c-75548b1e5ee6](https://github.com/ziad3704/Serverless-Application-raffle/blob/d33ef842133a1ec981b89dc455492854bc348eb5/Screenshot%202025-09-06%20182920.png" />
 
 
 **DNS**
@@ -226,6 +226,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
