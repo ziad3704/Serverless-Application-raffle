@@ -79,7 +79,7 @@ Route53 is a web service that can perform three functions domain registration, D
 
 **DNS**
 
-<img width="953" alt="create-record-53" src="https://github.com/user-attachments/assets/153056fc-47d0-456c-94a0-4d12fab431a9" />
+<img width="953" alt="create-record-53" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/8828e080695047d2d0a20e6f3891c416f3ca5c87/Screenshot%202025-09-06%20183306.png" />
 
 
 # 5. API Gateway
@@ -226,6 +226,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
