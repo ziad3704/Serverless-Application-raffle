@@ -124,7 +124,7 @@ An S3 bucket is an object storage (files) that can host a Static website or have
 
 **Add policy**
 
-<img width="729" alt="add-policy-to-bucket" src="https://github.com/user-attachments/assets/97064423-5495-4923-98ff-4d3f9e8a00b6" />
+<img width="729" alt="add-policy-to-bucket" src="https://github.com/ziad3704/Serverless-Application-raffle/blob/1f14597fd7af7fcd19710af9d84108df9a506010/Screenshot%202025-09-06%20195046.png" />
 
 
 **to change txt file to html, I change it from VScode! how? Thinking from the thoughts of terraform🔍**
@@ -216,6 +216,7 @@ add another fake person
 
 
 # **Done..!**
+
 
 
 
