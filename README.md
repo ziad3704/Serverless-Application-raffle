@@ -14,7 +14,7 @@ The primary aim of this project is to build an efficient, serverless environment
 # Steps
 ## 1. create Dynamodb
 
-<img width="916" alt="dynam03-done" src="Screenshot 2025-09-06 182028.png" />
+<img width="916" alt="dynam03-done" src="(https://github.com/ziad3704/Serverless-Application-raffle/blob/a2d28b2eb737c85c949dbb5e27c37e60e5788e6d/Screenshot%202025-09-06%20181608.png)" />
 
 ---
 
@@ -225,4 +225,5 @@ add another fake person
 
 
 # **Done..!**
+
 
